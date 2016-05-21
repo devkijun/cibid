@@ -1,0 +1,2 @@
+# cibid
+CIBID is a program that checks the current and past price action of a currency pair, also with predefined parameters given to CIBID such as a RSI, STOCHS or moving average crossover CIBID is constantly readjusting(optimizing)  the parameter settings on which there may be a buy/sell signal a reversal or support and resistance. These calculations are done on the following timeframes (1.5,15,30 Minute) (1, 4 Hourly) Daily, Weekly and Monthly
